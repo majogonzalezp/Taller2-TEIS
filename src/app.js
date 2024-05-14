@@ -4,7 +4,7 @@ const express = require('express');
 const os = require("os")
 const app = express();
 const path = require('path');
-const port = 3000;
+const port = 80;
 
 // Requerimos el módulo de datos de pokeneas
 app.use(express.json());
