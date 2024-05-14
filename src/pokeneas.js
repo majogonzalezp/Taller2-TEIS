@@ -1,0 +1,11 @@
+const pokeneas = [
+    {id: "1", name: "Charizard", height: "1,7 m", ability:"Mar Llamas", image: "https://storage.googleapis.com/imagenes-pokemos-taller-2/charizard.png", philosophical_phrase: "Cuando se enfurece de verdad, la llama de la punta de su cola se vuelve de color azul claro."},
+    {id: "2", name: "Pikachu", height: "0,4 m", ability:"Electricidad estatica", image:'https://storage.googleapis.com/imagenes-pokemos-taller-2/pikachu.png', philosophical_phrase: "Cuando se enfada, este Pokémon descarga la energia que almacena en el interior de las bolsas de las mejillas."},
+    {id: "3", name: "Nidoqueen", height: "1,3 m", ability:"Punto toxico", image:'https://storage.googleapis.com/imagenes-pokemos-taller-2/nidoqueen.png', philosophical_phrase: "Su defensa destaca sobre la capacidad ofensiva. Usa las escamas del cuerpo como una coraza para proteger a su prole de cualquier ataque."},
+    {id: "4", name: "Arcanine", height: "1,9 m", ability:"Absorbe fuego", image:'https://storage.googleapis.com/imagenes-pokemos-taller-2/arcanine.png', philosophical_phrase: "Cuenta un antiguo pergamino que la gente se quedaba fascinada al verlo correr por las praderas."},
+    {id: "5", name: "Gyarados", height: "6,5 m", ability:"Intimidacion", image:'https://storage.googleapis.com/imagenes-pokemos-taller-2/gyarados.png', philosophical_phrase: "Cuando aparece, monta en colera. No deja de estar furioso hasta que lo destruye todo."},
+    {id: "6", name: "Snorlax", height: "2,1 m", ability:"Sebo", image:'https://storage.googleapis.com/imagenes-pokemos-taller-2/snorlax.png', philosophical_phrase: "Este Pokemon es un gloton que lo único que hace aparte de comer es dormir. Puede ingerir hasta 400 kg de comida en un solo dia."},
+    {id: "7", name: "Mewtwo", height: "2,0 m", ability:"Presion", image:'https://storage.googleapis.com/imagenes-pokemos-taller-2/mewtwo.png', philosophical_phrase: "Su ADN es casi el mismo que el de Mew. Sin embargo, su tamaño y caracter son muy diferentes."},
+];
+
+module.exports = pokeneas;
